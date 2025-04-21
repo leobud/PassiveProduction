@@ -44,7 +44,7 @@
                             "bpPath": "/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 25000,
-                            "quantityPerDino": 5,
+                            "quantityPerDino": 25,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
