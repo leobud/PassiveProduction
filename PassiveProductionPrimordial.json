@@ -6,25 +6,25 @@
             "chanceToProduce": 1.0,
             "produces": [
                 {
-                    "intervalSeconds": 60.0,
+                    "intervalSeconds": 240.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 5,
+                            "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl",
-                                    "quantityPerItem": 5,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 5000
+                                    "maxQuantityInTerminal": 0
                                 }
                             ],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -43,12 +43,12 @@
                         {
                             "bpPath": "/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 25000,
-                            "quantityPerDino": 25,
+                            "maxQuantityInTerminal": 5000,
+                            "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -74,6 +74,246 @@
                 }
             ]
         },
+                {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Apex/ApexSoulBug_Character_BP.ApexSoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Apex/PrimalItemResource_ApexSoul.PrimalItemResource_ApexSoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "consumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+          {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Beta/BetaSoulBug_Character_BP.BetaSoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Beta/PrimalItemResource_BetaSoul.PrimalItemResource_BetaSoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "comsumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+          {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Chaos/ChaosSoulBug_Character_BP.ChaosSoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Chaos/PrimalItemResource_ChaosSoul.PrimalItemResource_ChaosSoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "comsumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+          {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Elemental/ElementalSoulBug_Character_BP.ElementalSoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Elemental/PrimalItemResource_ElementalSoul.PrimalItemResource_ElementalSoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "comsumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+          {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Gamma/GammaSoulBug_Character_BP.GammaSoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Gamma/PrimalItemResource_GammaSoul.PrimalItemResource_GammaSoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "comsumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+          {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Infinity/InfinitySoulBug_Character_BP.InfinitySoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Infinity/PrimalItemResource_InfinitySoul.PrimalItemResource_InfinitySoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "comsumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+          {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Mystic/MysticSoulBug_Character_BP.MysticSoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Mystic/PrimalItemResource_MysticSoul.PrimalItemResource_MysticSoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "comsumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+          {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Nebula/NebulaSoulBug_Character_BP.NebulaSoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Nebula/PrimalItemResource_NebulaSoul.PrimalItemResource_NebulaSoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "comsumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+          {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Neon/NeonSoulBug_Character_BP.NeonSoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Neon/PrimalItemResource_NeonSoul.PrimalItemResource_NeonSoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "comsumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+          {
+                    "dinoType": "PrimordialUnleashed/Dinos/StageOneDinos/SubTier/SoulDinos/Phantom/PhantomSoulBug_Character_BP.PhantomSoulBug_Character_BP",
+                    "chanceToProduce": 1.0,
+                    "produces": [
+                        {
+                            "intervalSeconds": 60.0,
+                            "itemSelectMode": 0,
+                            "items": [
+                                {
+                                    "bpPath": "/PrimordialUnleashed/Resources/StageOneResources/Soul/Phantom/PrimalItemResource_PhantomSoul.PrimalItemResource_PhantomSoul",
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 1000,
+                                    "quantityPerDino": 5,
+                                    "alternateSelectMode": 0,
+                                    "alternateItemsChance": 0.0,
+                                    "alternateItems": [],
+                                    "comsumesSelectMode": 0,
+                                    "consumesItemsChance": 0,
+                                    "consumesItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant",
             "chanceToProduce": 1.0,
@@ -85,30 +325,12 @@
                         {
                             "bpPath": "/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 5000,
-                            "quantityPerDino": 5,
+                            "maxQuantityInTerminal": 25000,
+                            "quantityPerDino": 20,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                },
-                {
-                    "intervalSeconds": 60.0,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 5000,
-                            "quantityPerDino": 5,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.0,
-                            "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -132,7 +354,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -156,7 +378,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -180,7 +402,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -204,7 +426,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         },
@@ -216,7 +438,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -240,7 +462,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -264,7 +486,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -288,7 +510,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         },
@@ -296,11 +518,11 @@
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 20,
-                            "quantityPerDino": 1,
+                            "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 1.0,
                             "consumesItems": [
                                 {
@@ -331,7 +553,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         },
@@ -339,11 +561,11 @@
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 20,
-                            "quantityPerDino": 5,
+                            "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 1.0,
                             "consumesItems": [
                                 {
@@ -374,7 +596,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
@@ -398,7 +620,7 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
                         }
