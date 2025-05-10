@@ -231,7 +231,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/ExtinctionCoreAscended/Items/Consumables/Kibble/PrimalItemConsumable_Kibble_Base_AlphaBasic.PrimalItemConsumable_Kibble_Base_AlphaBasic",
                             "maxQuantityPerCycle": 0,
@@ -243,7 +243,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/ExtinctionCoreAscended/Items/Consumables/Kibble/PrimalItemConsumable_Kibble_Base_AlphaLarge.PrimalItemConsumable_Kibble_Base_AlphaLarge",
                             "maxQuantityPerCycle": 0,
@@ -255,7 +255,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/ExtinctionCoreAscended/Items/Consumables/Kibble/PrimalItemConsumable_Kibble_Base_AlphaMedium.PrimalItemConsumable_Kibble_Base_AlphaMedium",
                             "maxQuantityPerCycle": 0,
@@ -267,7 +267,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/ExtinctionCoreAscended/Items/Consumables/Kibble/PrimalItemConsumable_Kibble_Base_AlphaSmall.PrimalItemConsumable_Kibble_Base_AlphaSmall",
                             "maxQuantityPerCycle": 0,
@@ -279,7 +279,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/ExtinctionCoreAscended/Items/Consumables/Kibble/PrimalItemConsumable_Kibble_Base_AlphaSpecial.PrimalItemConsumable_Kibble_Base_AlphaSpeciall",
                             "maxQuantityPerCycle": 0,
@@ -291,7 +291,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/ExtinctionCoreAscended/Items/Consumables/Kibble/PrimalItemConsumable_Kibble_Base_AlphaXLarge.PrimalItemConsumable_Kibble_Base_AlphaXLarge",
                             "maxQuantityPerCycle": 0,
@@ -303,7 +303,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/ExtinctionCoreAscended/Items/Consumables/Kibble/PrimalItemConsumable_Kibble_Base_AlphaXSmall.PrimalItemConsumable_Kibble_Base_AlphaXSmall",
                             "maxQuantityPerCycle": 0,
@@ -315,7 +315,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic",
                             "maxQuantityPerCycle": 0,
@@ -327,7 +327,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Stimulant.PrimalItemConsumable_Stimulant",
                             "maxQuantityPerCycle": 0,
@@ -339,7 +339,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake",
                             "maxQuantityPerCycle": 0,
@@ -351,7 +351,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey",
                             "maxQuantityPerCycle": 0,
@@ -363,7 +363,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap",
                             "maxQuantityPerCycle": 0,
@@ -375,7 +375,7 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        }
+                        },
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl",
                             "maxQuantityPerCycle": 0,
