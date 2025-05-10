@@ -213,7 +213,7 @@
             ]
         },
         {
-            "dinoType": "/ExtinctionCoreAscended/Content/Dinos/Other/ElementalDodoRexy/Dodorexy/GoldendOd0_Character_BP.GoldendOd0_Character_BP",
+            "dinoType": "/ExtinctionCoreAscended/Dinos/Prime/Dodo/GoldenDodo_Character_BP.GoldenDodo_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
