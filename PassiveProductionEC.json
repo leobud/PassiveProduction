@@ -177,7 +177,7 @@
             ]
         },
         {
-            "dinoType": "/ExtinctionCoreAscended/Content/Dinos/Prime/Otter/PrimeOtter_Character_BP.PrimeOtter_Character_BP",
+            "dinoType": "/ExtinctionCoreAscended/Dinos/Prime/Otter/PrimeOtter_Character_BP.PrimeOtter_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
