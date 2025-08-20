@@ -281,7 +281,7 @@
                             "consumesItems": []
                         },
                         {
-                            "bpPath": "/ExtinctionCoreAscended/Items/Consumables/Kibble/PrimalItemConsumable_Kibble_Base_AlphaSpecial.PrimalItemConsumable_Kibble_Base_AlphaSpeciall",
+                            "bpPath": "/ExtinctionCoreAscended/Items/Consumables/Kibble/PrimalItemConsumable_Kibble_Base_AlphaSpecial.PrimalItemConsumable_Kibble_Base_AlphaSpecial",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 100,
                             "quantityPerDino": 1,
