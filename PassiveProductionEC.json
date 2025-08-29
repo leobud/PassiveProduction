@@ -646,7 +646,7 @@
                         {
                             "bpPath": "/Game/ASA/Dinos/Archelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae_ASA.PrimalItemConsumable_Veggie_TurtleAlgae_ASA",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
+                            "maxQuantityInTerminal": 2000,
                             "quantityPerDino": 2,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
@@ -658,8 +658,8 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
+                            "maxQuantityInTerminal": 1000,
+                            "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
