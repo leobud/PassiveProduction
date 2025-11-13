@@ -182,6 +182,30 @@
                 }
             ]
         },
+         {
+            "dinoType": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP'",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 60.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Megalania.PrimalItemResource_ApexDrop_Megalania'",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 1000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
         {
             "dinoType": "/ExtinctionCoreAscended/Dinos/Prime/Boa/PrimeBoaFrill_Character_BP.PrimeBoaFrill_Character_BP",
             "chanceToProduce": 1.0,
