@@ -409,7 +409,7 @@
             ]
         },
         {
-            "dinoType": "/JurassicAwakening/Dinos/Oceans/Unique/Archelon/Archelon_Character_BP_JA",
+            "dinoType": "/JurassicAwakening/Dinos/Oceans/Unique/Archelon/Archelon_Character_BP_JA.Archelon_Character_BP_JA",
             "chanceToProduce": 1.0,
             "produces": [
                 {
