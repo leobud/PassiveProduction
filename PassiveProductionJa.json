@@ -429,7 +429,7 @@
                             "consumesItems": []
                         },
                         {
-                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'",
+                            "bpPath": "/JurassicAwakening/Items/Other/PrimalItemConsumable_JellyVenom_JA.PrimalItemConsumable_JellyVenom_JA",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 5,
