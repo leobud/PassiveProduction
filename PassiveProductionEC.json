@@ -33,7 +33,7 @@
             ]
         },
                 {
-            "dinoType": "/ExtinctionCoreAscended/Dinos/Prime/Eel/PrimeEel_Character_BP.PrimeEel_Character_BP'",
+            "dinoType": "/ExtinctionCoreAscended/Dinos/Prime/Eel/PrimeEel_Character_BP.PrimeEel_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -41,7 +41,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'",
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 5,
@@ -225,7 +225,7 @@
             ]
         },
                                 {
-            "dinoType": "/ExtinctionCoreAscended/Dinos/Prime/Cat/PrimeCat_Character_BP.PrimeCat_Character_BP'",
+            "dinoType": "/ExtinctionCoreAscended/Dinos/Prime/Cat/PrimeCat_Character_BP.PrimeCat_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -233,7 +233,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/ExtinctionCoreAscended/Items/Consumables/PrimalItemConsumable_EcoreWyvernMilk.PrimalItemConsumable_EcoreWyvernMilk'",
+                            "bpPath": "/ExtinctionCoreAscended/Items/Consumables/PrimalItemConsumable_EcoreWyvernMilk.PrimalItemConsumable_EcoreWyvernMilk",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 1,
