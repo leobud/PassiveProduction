@@ -436,6 +436,37 @@
                     ]
                 }
             ]
+        },
+        {
+            "dinoType": "/ArkSupreme/SupremeBosses/TameableTieredBosses/1Savage/0Berserk/SmallVersion/BerserkAchatina_Character_BP_BOSS_Tameable_Small.BerserkAchatina_Character_BP_BOSS_Tameable_Small",
+            "chanceToProduce": 1,
+            "produces": [
+                {
+                    "intervalSeconds": 60,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/ArkSupreme/SupremeItems/Slimeball/Berserk/PrimalItemConsumable_SlimeBall_Berserk.PrimalItemConsumable_SlimeBall_Berserk",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": [
+                                {
+                                    "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Berries/PrimalItemConsumable_Berry_Base.PrimalItemConsumable_Berry_Base'",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
