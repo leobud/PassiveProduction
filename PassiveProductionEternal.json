@@ -277,7 +277,7 @@
             "chanceToProduce": 1,
             "produces": [
                 {
-                    "intervalSeconds": 60,
+                    "intervalSeconds": 150,
                     "itemSelectMode": 0,
                     "items": [
                         {
